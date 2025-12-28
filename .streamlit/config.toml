@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#314f6dff"      # <--- Cor do Botão "Executar" e focos (Azul)
+backgroundColor = "#cfd0d4ff"   # <--- Cor do Fundo da página (Branco)
+secondaryBackgroundColor = "#F0F2F6" # <--- Cor da barra lateral e caixas (Cinza claro)
+textColor = "#000000ff"         # <--- Cor do texto geral (Preto/Cinza escuro)
+font = "Arial Black"           # <--- Tipo de fonte (opções: "sans serif", "serif", "monospace")
